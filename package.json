@@ -1,6 +1,4 @@
 {
-  "_from": "get-file-list@1.0.3",
-  "_id": "get-file-list@1.0.3",
   "name": "get-file-list",
   "version": "1.0.3",
   "description": "获取文件夹的所有文件路径",
